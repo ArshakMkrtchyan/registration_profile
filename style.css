@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+
+.container{
+    /* border: 2px solid; */
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container1{
+    /* border: 2px solid; */
+    width: 450px;
+    margin: 0 auto;
+}
+
+span:nth-child(1){
+    margin-left: 50px;
+}
+
+span:nth-child(2){
+    margin: 120px;
+}
+
+h1{
+    display: inline-block;
+    margin: 20px;
+}
+
+.info{
+    width: 300px;
+    height: 300px;
+    margin: 70px auto;
+    border-radius: 20px;
+
+}
+
+.sub{
+    position: absolute;
+    top: 140px;
+    right: 720px;
+}
